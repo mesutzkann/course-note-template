@@ -46,15 +46,15 @@ math: katex
 
 <!-- _backgroundColor: aquq -->
 
-<!-- _color: orange -->
+<!-- _color: GREEN -->
 
 <!-- paginate: false -->
 
-## Örnek Ders Adı
+## MICROSOFT
 
-### Hafta-2 (Örnek Ders Modülü Adı)
+### Hafta-2 (MICROSOFT WORLD)
 
-#### Bahar Dönemi, 20XX-20XX
+#### Bahar Dönemi, 2022-2023
 
 İndir [DOC](week-2.tr.md_doc.pdf), [SLIDE](week-2.tr.md_slide.pdf), [PPTX](week-2.tr.md_slide.pptx)
 
@@ -65,154 +65,64 @@ math: katex
 <!-- paginate: true -->
 
 ### Anahat
-
-- Örnek Anahat
-- Örnek Anahat
-- Örnek Anahat
-- Örnek Anahat
-
----
-
-## **Örnek Konu**
+-Word'de Giriş ve Belge Üzerinde Hareket Etme Yöntemleri
+-Kelime Kısayollarıyla Çalışma
+-Sayfa Düzeni ile Çalışma
+-Tablolar Oluşturma
+-İçerik Oluşturma
 
 ---
 
-### Örnek Konu
+### Belge Açma
 
-- **Lorem Ipsum nedir?**
-Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
-   - bilinmeyen bir matbaacı bir tür kadırga alıp onu bir tip numune kitabı yapmak için karıştırdığında. Sadece beş yüzyıl hayatta kalmadı,
-     - ama aynı zamanda, esasen değişmeden kalan elektronik dizgiye geçiş.
-       - 1960'larda Lorem Ipsum pasajları içeren Letraset sayfalarının yayınlanmasıyla ve daha yakın zamanda Aldus PageMaker gibi Lorem Ipsum sürümlerini içeren masaüstü yayıncılık yazılımlarıyla popüler hale geldi.
+- **Belge Açma nedir?**
+Belgeleri Word içindeki Aç iletişim kutusundan birçok farklı konumda açabilirsiniz. Bilgisayarınızın sabit sürücüsündeki veya bağlantınız olan bir ağ sürücüsündeki bir belgeyi açabilirsiniz. Ağınız UNC adreslerini desteklediği sürece, ağ sunucusuna bağlantınız olmasa bile ağda bir belge açabilirsiniz. ), World Wide Web'de HTTP bölgesine veya FTP bölgesine yerleştirilen belgeyi açabilirsiniz. Şirketinizin bir intraneti varsa, belgeleri orada açabilirsiniz.
 ---
 
-### Örnek Resimler-1
+### Belge Açma-1
 
-- **Lorem Ipsum nedir?**
-Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
+- **Belge Açma nedir?**
+Belgeleri Word içindeki Aç iletişim kutusundan birçok farklı konumda açabilirsiniz. Bilgisayarınızın sabit sürücüsündeki veya bağlantınız olan bir ağ sürücüsündeki bir belgeyi açabilirsiniz.
 
-![center h:400px](assets/sample-1.png)
+![center h:400px](assets/WORD1.PNG)
 
 ---
 
-### Örnek Resimler-2
+### Mektup Oluşturma-2
 
-- **Lorem Ipsum nedir?**
-Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
+- **Mektup Oluşturma nedir?**
+1 "Sevgili" veya "Kime" sözcükleri ile başlayan, ardından ad ve ardından iki nokta üst üste veya virgülle gelen, örneğin ¾ Sevgili Jane veya Tüm Kart Üyeleri: ¾ ve ardından ENTER'a basın.
+2 Office Assistant'tan Mektup yazarken yardım al'ı tıklatın.
+3 Harf Sihirbazı'ndaki yönergeleri izleyin. Bir adımı atlamak veya belirli bir panoya gitmek istiyorsanız, sekmelerden birine tıklayın. Bir seçenekte Yardım için soru işaretini ve ardından seçeneği tıklayın.
 
-![bg right:50% h:400px](assets/sample-1.png)
-
----
-
-### Örnek Resimler-3
-
-- **Lorem Ipsum nedir?**
-Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
-
-![bg left:50% h:400px](assets/sample-1.png)
+![bg right:50% h:400px](assets/WORD2.png)
 
 ---
 
-### Örnek Resimler-4
+### Dahili Yazışma Oluşturma-3
 
-- **Lorem Ipsum nedir?**
-Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
+- **Dahili Yazışma Oluşturma nedir?**
+Dahili Yazışma Sihirbazı, hızlı bir şekilde dahili yazışmalar oluşturmanıza, dağılım listeleri oluşturmanıza, dahili iletişimlerinizi biçimlendirmenize ve başlıklar ile tarih, konu ve yazarın baş harfleri gibi sık kullanılan diğer öğeleri eklemenize yardımcı olur.
+1 - Dosya menüsünde Yeni'ye tıklayın.
+2 - Dahili Yazışmalar sekmesine tıklayın.
+3 - Dahili Yazışma Sihirbazı'na çift tıklayın.
+4 - Sihirbazdaki adımları izleyin.
 
-![bg h:400px](assets/sample-1.png)
-
----
-
-### Örnek Resimler-5
-
-- **Lorem Ipsum nedir?**
-Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
-
-![bg left:50% h:800px](assets/sample-1.png)
-![bg left:50% h:800px](assets/sample-2.png)
+![bg left:50% h:400px](assets/WORD3.PNG)
 
 ---
 
-### Örnek Resimler-6
+### Belge Haritasını Kullanarak Gezinme-4
 
-- **Lorem Ipsum nedir?**
-Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
+- **Belge Haritasını Kullanarak Gezinme nedir?**
+Belge Haritası, belge başlıklarının ana hatlarını gösteren ayrı bir penceredir. Belgeler arasında kolayca gezinmek ve konumunuzu izlemek için Belge Haritası'nı kullanabilirsiniz. Örneğin, belgenin o kısmına atlamak için Belge Haritasındaki bir başlığa tıklayın. Word, Belge Haritasını çevrimiçi düzen görünümünde otomatik olarak görüntüler, ancak Belge Haritasını istediğiniz herhangi bir görünümde görüntüleyebilirsiniz.
 
-![bg left:50% h:300px](assets/sample-1.png)
-![bg left:50% h:500px](assets/sample-2.png)
+1 - Belge Haritası'na tıklayın.
+2 - Belge Haritası içinden gezinmek istediğiniz başlığa tıklayın.
 
----
+Word, başlığı sayfanın en üstünde görüntüler. Başlık, belge içindeki konumunuzu göstermek için Belge Haritasında vurgulanır.
 
-###  Latex Örneği-1
-
-$$
-\begin{align}
-  \begin{aligned}
-  \text{compute } m[i,i+1] \\
-  \underbrace{ \{ m[1,2],m[2,3], \dots ,m[n-1,n]\} }_{(n-1) \text{ values}}
-  \end{aligned}
-    & \begin{cases}
-    & \ell=2  \\
-    & \text{for } i=1 \text{ to } n-1 \text{ do } \\
-    & \quad m[i,i+1]=\infty \\
-    & \quad \quad \text{for } k=i \text{ to } i \text{ do } \\
-    &  \quad \quad \quad \vdots
-    \end{cases} \\
-  \begin{aligned}
-  \text{compute } m[i,i+2] \\
-  \underbrace{ \{ m[1,3],m[2,4], \dots ,m[n-2,n]\} }_{(n-2) \text{ values}}
-  \end{aligned}
-    & \begin{cases}
-    & \ell=3  \\
-    & \text{for } i=1 \text{ to } n-2 \text{ do } \\
-    & \quad m[i,i+2]=\infty \\
-    & \quad \quad \text{for } k=i \text{ to } i+1 \text{ do } \\
-    & \quad \quad \quad \vdots
-    \end{cases} \\
-  \begin{aligned}
-  \text{compute } m[i,i+3] \\
-  \underbrace{ \{ m[1,4],m[2,5], \dots ,m[n-3,n]\} }_{(n-3) \text{ values}}
-    \end{aligned}
-    & \begin{cases}
-    & \ell=4  \\
-    & \text{for } i=1 \text{ to } n-3 \text{ do } \\
-    & \quad m[i,i+3]=\infty \\
-    & \quad \quad \text{for } k=i \text{ to } i+2 \text{ do } \\
-    & \quad \quad \quad \vdots
-    \end{cases}
-\end{align}
-$$
-
----
-
-### Latex Örneği-2
-
-$$
-\begin{align*}
-& \text{OPTIMAL-BST-COST} (p, n) \\
-& \quad \text{for} \ i \leftarrow 1 \ \text{to} \ n \ \text{do} \\
-& \qquad c[i, i-1] \leftarrow 0 \\
-& \qquad c[i, i] \leftarrow p[i] \\
-& \qquad R[i, j] \leftarrow i \\
-& \quad PS[1] \leftarrow p[1] \Longleftarrow PS[i] \rightarrow  \text{ prefix-sum } (i): \text{Sum of all} \ p[j] \ \text{values for}  \ j \leq i
- \\
-& \quad \text{for} \ i \leftarrow 2 \ \text{to} \ n \ \text{do} \\
-& \qquad PS[i] \leftarrow p[i] + PS[i-1]  \Longleftarrow  \text{compute the prefix sum} \\
-& \quad \text{for} \ d \leftarrow 1 \ \text{to} \ n−1 \ \text{do}   \Longleftarrow  \text{BSTs with} \ d+1 \ \text{consecutive keys} \\
-& \qquad \text{for} \  i \leftarrow 1 \ \text{to} \ n – d \ \text{do} \\
-& \qquad \quad j \leftarrow i + d \\
-& \qquad \quad c[i, j] \leftarrow \infty \\
-& \qquad \quad \text{for} \ r \leftarrow i \ \text{to} \ j \ \text{do} \\
-& \qquad \qquad q \leftarrow min\{c[i,r-1] + c[r+1, j]\} +  PS[j] – PS[i-1]\} \\
-& \qquad \qquad \text{if} \ q < c[i, j] \ \text{then} \\
-& \qquad \qquad \quad c[i, j]  \leftarrow q \\
-& \qquad \qquad \quad R[i, j] \leftarrow r \\
-& \quad \text{return} \ c[1, n], R
-\end{align*}
-$$
-
----
-
-**YAPILACAKLAR** KURS NOTLARINIZ İÇİN İÇERİĞİ GÜNCELLEME
+![bg h:400px](assets/WORD4.PNG)
 
 --- 
 

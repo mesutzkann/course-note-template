@@ -46,15 +46,15 @@ math: katex
 
 <!-- _backgroundColor: aquq -->
 
-<!-- _color: orange -->
+<!-- _color: GREEN -->
 
 <!-- paginate: false -->
 
-## Sample Course Name
+## MICROSOFT
 
-### Week-2 (Sample Course Module Name)
+### Week-2 (MICROSOFT WORD)
 
-#### Spring Semester, 20XX-20XX
+#### Spring Semester, 2022-2023
 
 Download [DOC](week-2.en.md_doc.pdf), [SLIDE](week-2.en.md_slide.pdf), [PPTX](week-2.en.md_slide.pptx)
 
@@ -65,167 +65,71 @@ Download [DOC](week-2.en.md_doc.pdf), [SLIDE](week-2.en.md_slide.pdf), [PPTX](we
 <!-- paginate: true -->
 
 ### Outline
-
-- Sample Outline
-- Sample Outline
-- Sample Outline
-- Sample Outline
-
----
-
-## **Sample Topic**
+-Methods of Input in Word and Moving on Document
+-Working with Word Shortcuts
+-Working with Page Layout
+-Creating Tables
+-Creating Contents
 
 ---
 
-### Sample Topic
+### Document Opening
 
-- **What is Lorem Ipsum?**
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-  - when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, 
-    - but also the leap into electronic typesetting, remaining essentially unchanged. 
-      - It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
+- **What is Document Opening?**
+You can open documents in many different locations from the Open dialog inside Word. You can open a document on your computer's hard drive or on a network drive to which you have a connection. As long as your network supports UNC addresses, you can open a document on the network even if you do not have a connection to a network server. ), you can open the document placed in the HTTP zone or FTP zone on the World Wide Web. If your company has an intranet, you can open documents there.
+---
+
+### Document Opening-1
+
+- **What is Document Opening?**
+You can open documents in many different locations from the Open dialog inside Word. You can open a document on your computer's hard drive or on a network drive to which you have a connection.
+
+![center h:400px](ASSETS/WORD1.PNG)
 
 ---
 
-### Sample Images-1
+### Creating a Letter-2
 
-- **What is Lorem Ipsum?**
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+- **What is Creating a Letter?**
+1 Type a greeting that begins with the words "Dear" or "To" followed by the name followed by a colon or comma, such as ¾ Dear Jane or All Card Members: ¾ then press ENTER.
+2 From the Office Assistant, click Get help writing a letter.
+3 Follow the instructions in the Letter Wizard. If you want to skip a step or go to a specific clipboard, click one of the tabs. For Help in an option, click the question mark then the option.
 
-![center h:400px](assets/sample-1.png)
-
----
-
-### Sample Images-2
-
-- **What is Lorem Ipsum?**
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-
-![bg right:50% h:400px](assets/sample-1.png)
+![bg right:50% h:400px](ASSETS/WORD2.png)
 
 ---
 
-### Sample Images-3
+### Creating Internal Correspondence-3
 
-- **What is Lorem Ipsum?**
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+- **What is Creating Internal Correspondence?**
+The Internal Correspondence Wizard allows you to quickly create internal correspondence, helping you create scatter lists, format your internal communications, and add titles and other frequently used items such as date, subject, and author's initials.
+1 - Click New on the File menu.
+2 - Click the Internal Correspondence tab.
+3 - Double-click Internal Correspondence Wizard.
+4 - Follow the steps in the wizard.
 
-![bg left:50% h:400px](assets/sample-1.png)
-
----
-
-### Sample Images-4
-
-- **What is Lorem Ipsum?**
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-
-![bg h:400px](assets/sample-1.png)
+![bg left:50% h:400px](ASSETS/WORD3.PNG)
 
 ---
 
-### Sample Images-5
+### Navigating Using the Document Map-4
 
-- **What is Lorem Ipsum?**
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+- **What is Navigating Using the Document Map?**
+The Document Map is a separate window that shows the outline of document titles. You can use Document Map to easily navigate between documents and track your location. For example, click a title in the Document Map to jump to that part of the document. Word automatically displays the Document Map in the online layout view, but you can view the Document Map in any other view you want.
 
-![bg left:50% h:800px](assets/sample-1.png)
-![bg left:50% h:800px](assets/sample-2.png)
+1 - Click Document Map.
+2 - Click the title you want to navigate from within the Document Map.
 
----
+Word displays the title at the top of the page. The title is highlighted in the Document Map to show your position within the document.
 
-### Sample Images-6
-
-- **What is Lorem Ipsum?**
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-
-![bg left:50% h:300px](assets/sample-1.png)
-![bg left:50% h:500px](assets/sample-2.png)
-
----
-
-###  Latex Sample-1
-
-$$
-\begin{align}
-  \begin{aligned}
-  \text{compute } m[i,i+1] \\
-  \underbrace{ \{ m[1,2],m[2,3], \dots ,m[n-1,n]\} }_{(n-1) \text{ values}}
-  \end{aligned}
-    & \begin{cases}
-    & \ell=2  \\
-    & \text{for } i=1 \text{ to } n-1 \text{ do } \\
-    & \quad m[i,i+1]=\infty \\
-    & \quad \quad \text{for } k=i \text{ to } i \text{ do } \\
-    &  \quad \quad \quad \vdots
-    \end{cases} \\
-  \begin{aligned}
-  \text{compute } m[i,i+2] \\
-  \underbrace{ \{ m[1,3],m[2,4], \dots ,m[n-2,n]\} }_{(n-2) \text{ values}}
-  \end{aligned}
-    & \begin{cases}
-    & \ell=3  \\
-    & \text{for } i=1 \text{ to } n-2 \text{ do } \\
-    & \quad m[i,i+2]=\infty \\
-    & \quad \quad \text{for } k=i \text{ to } i+1 \text{ do } \\
-    & \quad \quad \quad \vdots
-    \end{cases} \\
-  \begin{aligned}
-  \text{compute } m[i,i+3] \\
-  \underbrace{ \{ m[1,4],m[2,5], \dots ,m[n-3,n]\} }_{(n-3) \text{ values}}
-    \end{aligned}
-    & \begin{cases}
-    & \ell=4  \\
-    & \text{for } i=1 \text{ to } n-3 \text{ do } \\
-    & \quad m[i,i+3]=\infty \\
-    & \quad \quad \text{for } k=i \text{ to } i+2 \text{ do } \\
-    & \quad \quad \quad \vdots
-    \end{cases}
-\end{align}
-$$
-
----
-
-### Latex Sample-2
-
-$$
-\begin{align*}
-& \text{OPTIMAL-BST-COST} (p, n) \\
-& \quad \text{for} \ i \leftarrow 1 \ \text{to} \ n \ \text{do} \\
-& \qquad c[i, i-1] \leftarrow 0 \\
-& \qquad c[i, i] \leftarrow p[i] \\
-& \qquad R[i, j] \leftarrow i \\
-& \quad PS[1] \leftarrow p[1] \Longleftarrow PS[i] \rightarrow  \text{ prefix-sum } (i): \text{Sum of all} \ p[j] \ \text{values for}  \ j \leq i
- \\
-& \quad \text{for} \ i \leftarrow 2 \ \text{to} \ n \ \text{do} \\
-& \qquad PS[i] \leftarrow p[i] + PS[i-1]  \Longleftarrow  \text{compute the prefix sum} \\
-& \quad \text{for} \ d \leftarrow 1 \ \text{to} \ n−1 \ \text{do}   \Longleftarrow  \text{BSTs with} \ d+1 \ \text{consecutive keys} \\
-& \qquad \text{for} \  i \leftarrow 1 \ \text{to} \ n – d \ \text{do} \\
-& \qquad \quad j \leftarrow i + d \\
-& \qquad \quad c[i, j] \leftarrow \infty \\
-& \qquad \quad \text{for} \ r \leftarrow i \ \text{to} \ j \ \text{do} \\
-& \qquad \qquad q \leftarrow min\{c[i,r-1] + c[r+1, j]\} +  PS[j] – PS[i-1]\} \\
-& \qquad \qquad \text{if} \ q < c[i, j] \ \text{then} \\
-& \qquad \qquad \quad c[i, j]  \leftarrow q \\
-& \qquad \qquad \quad R[i, j] \leftarrow r \\
-& \quad \text{return} \ c[1, n], R
-\end{align*}
-$$
-
----
-
-**TODO** UPDATE CONTENT FOR YOUR COURSE NOTES
+![bg h:400px](ASSETS/WORD4.PNG)
 
 --- 
 
 ## References
 
-- https://avesis.erdogan.edu.tr/ugur.coruh
-- https://www.linkedin.com/in/ugurcoruh/
-- https://www.hindawi.com/journals/scn/2018/6563089/ 
-- https://dl.acm.org/doi/abs/10.1145/3410352.3410836
-- https://www.sciencedirect.com/science/article/abs/pii/S2214212621002623 
-
-
+- https://oguzhantunaword.weebly.com/
+-https://ucoruh.github.io/ce103-algorithms-and-programming-I
 ---
 
 $End-Of-Week-2-Module$

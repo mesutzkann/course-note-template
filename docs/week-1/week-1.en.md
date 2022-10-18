@@ -10,7 +10,7 @@ _class: lead
 paginate: true
 backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
-header: 'Sample Course Name'
+header: ''
 footer: '![height:50px](http://erdogan.edu.tr/Images/Uploads/MyContents/L_379-20170718142719217230.jpg) RTEU CE204 Week-1'
 title: "Sample Course Name"
 author: "Author: Asst. Prof. Dr. Uğur CORUH"
@@ -46,15 +46,15 @@ math: katex
 
 <!-- _backgroundColor: aquq -->
 
-<!-- _color: orange -->
+<!-- _color: green -->
 
 <!-- paginate: false -->
 
-## Sample Course Name
+## Microsoft
 
-### Week-1 (Sample Course Module Name)
+### Week-1 (Microsoft Excel)
 
-#### Spring Semester, 20XX-20XX
+#### Spring Semester, 2022-2023
 
 Download [DOC](week-1.en.md_doc.pdf), [SLIDE](week-1.en.md_slide.pdf), [PPTX](week-1.en.md_slide.pptx)
 
@@ -66,165 +66,82 @@ Download [DOC](week-1.en.md_doc.pdf), [SLIDE](week-1.en.md_slide.pdf), [PPTX](we
 
 ### Outline
 
-- Sample Outline
-- Sample Outline
-- Sample Outline
-- Sample Outline
+- ‣ Shortcuts
+‣ Formulas (Functions/Functions)
+‣ Pivot Table
+‣ Conditional formatting
+‣ Data Validation
+‣ Arrangement
+‣ Filter
+‣ Advanced Filter
+‣ Wildcards
+‣ Graphics
+‣ Quick Reload
+‣ Find and Replace
+‣ Convert Text to Columns
+‣ Get External Data
+‣ VBA (Macro)
 
 ---
 
-## **Sample Topic**
+## ** ► SHORTCUTS**
 
 ---
 
-### Sample Topic
+### ► PIVOT TABLE 
 
-- **What is Lorem Ipsum?**
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-  - when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, 
-    - but also the leap into electronic typesetting, remaining essentially unchanged. 
-      - It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
+- **What is PIVOT TABLE?**
+
+We use this feature if we have a large table and we want to create summary tables according to the fields you want from this table. Although it is very simple to use, it allows us to perform a very powerful and fast data analysis and reporting. If you have a table like this, you can extract many summary reports from this table. If we have a historical field in our table, then you can prepare reports for all historical processes on an annual, quarterly, monthly, weekly and daily basis.
 
 ---
 
-### Sample Images-1
+### PIVOT TABLE-1
 
-- **What is Lorem Ipsum?**
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+- **What is PIVOT TABLE?**
+From the table below, what are the total quantities and amounts on the basis of company, import number or product reference? Again, according to the same fields, what are the total amounts and amounts on annual, quarterly, monthly, weekly basis? You can get many reports such as.
 
-![center h:400px](assets/sample-1.png)
-
----
-
-### Sample Images-2
-
-- **What is Lorem Ipsum?**
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-
-![bg right:50% h:400px](assets/sample-1.png)
+![center h:300px](ASSETS/pivot.png)
 
 ---
 
-### Sample Images-3
+### ► FUNCTIONS (FUNCTIONS / FORMULAS)-2
 
-- **What is Lorem Ipsum?**
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+- **What is FUNCTIONS?**
+There are many menus in the section where the menus we call the ribbon in Excel are, and there are many features in each menu that are related or not related to that menu name. But the Formulas menu is complete and only related to Formulas. It's a pretty broad topic. That's why Microsoft has created a separate menu for this topic.
 
-![bg left:50% h:400px](assets/sample-1.png)
-
----
-
-### Sample Images-4
-
-- **What is Lorem Ipsum?**
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-
-![bg h:400px](assets/sample-1.png)
+![bg right:50% h:300px](ASSETS/formul-768x370.png)
 
 ---
 
-### Sample Images-5
+### ► CONDITIONAL FORMATTING-3
 
-- **What is Lorem Ipsum?**
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+- **What is CONDITIONAL FORMATTING?**
+Here are some ready-made conditions that we can use. When the ready conditions are not enough for us, you can create our own rules with formulas and format the cells that comply with those rules. Of course, for this, you need to master the formulas first.When we choose Conditional Formatting, we can see the rules given to us as follows. We can easily format according to numerical, textual and historical data.
 
-![bg left:50% h:800px](assets/sample-1.png)
-![bg left:50% h:800px](assets/sample-2.png)
-
----
-
-### Sample Images-6
-
-- **What is Lorem Ipsum?**
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-
-![bg left:50% h:300px](assets/sample-1.png)
-![bg left:50% h:500px](assets/sample-2.png)
+![bg left:50% h:500px](ASSETS/kosullubicim.png)
 
 ---
 
-###  Latex Sample-1
+### ► DATA VERIFICATION-4
 
-$$
-\begin{align}
-  \begin{aligned}
-  \text{compute } m[i,i+1] \\
-  \underbrace{ \{ m[1,2],m[2,3], \dots ,m[n-1,n]\} }_{(n-1) \text{ values}}
-  \end{aligned}
-    & \begin{cases}
-    & \ell=2  \\
-    & \text{for } i=1 \text{ to } n-1 \text{ do } \\
-    & \quad m[i,i+1]=\infty \\
-    & \quad \quad \text{for } k=i \text{ to } i \text{ do } \\
-    &  \quad \quad \quad \vdots
-    \end{cases} \\
-  \begin{aligned}
-  \text{compute } m[i,i+2] \\
-  \underbrace{ \{ m[1,3],m[2,4], \dots ,m[n-2,n]\} }_{(n-2) \text{ values}}
-  \end{aligned}
-    & \begin{cases}
-    & \ell=3  \\
-    & \text{for } i=1 \text{ to } n-2 \text{ do } \\
-    & \quad m[i,i+2]=\infty \\
-    & \quad \quad \text{for } k=i \text{ to } i+1 \text{ do } \\
-    & \quad \quad \quad \vdots
-    \end{cases} \\
-  \begin{aligned}
-  \text{compute } m[i,i+3] \\
-  \underbrace{ \{ m[1,4],m[2,5], \dots ,m[n-3,n]\} }_{(n-3) \text{ values}}
-    \end{aligned}
-    & \begin{cases}
-    & \ell=4  \\
-    & \text{for } i=1 \text{ to } n-3 \text{ do } \\
-    & \quad m[i,i+3]=\infty \\
-    & \quad \quad \text{for } k=i \text{ to } i+2 \text{ do } \\
-    & \quad \quad \quad \vdots
-    \end{cases}
-\end{align}
-$$
+- **What is DATA VERIFICATION?**
+It is a feature that prevents entering only the data that is desired to be entered into a cell or a range of cells, and prevents any other data entry. It is located in the Data Tools group in the Data menu.
+
+![bg h:400px](ASSETS/datavalidation.png)
 
 ---
 
-### Latex Sample-2
+### ► RANKING-5
 
-$$
-\begin{align*}
-& \text{OPTIMAL-BST-COST} (p, n) \\
-& \quad \text{for} \ i \leftarrow 1 \ \text{to} \ n \ \text{do} \\
-& \qquad c[i, i-1] \leftarrow 0 \\
-& \qquad c[i, i] \leftarrow p[i] \\
-& \qquad R[i, j] \leftarrow i \\
-& \quad PS[1] \leftarrow p[1] \Longleftarrow PS[i] \rightarrow  \text{ prefix-sum } (i): \text{Sum of all} \ p[j] \ \text{values for}  \ j \leq i
- \\
-& \quad \text{for} \ i \leftarrow 2 \ \text{to} \ n \ \text{do} \\
-& \qquad PS[i] \leftarrow p[i] + PS[i-1]  \Longleftarrow  \text{compute the prefix sum} \\
-& \quad \text{for} \ d \leftarrow 1 \ \text{to} \ n−1 \ \text{do}   \Longleftarrow  \text{BSTs with} \ d+1 \ \text{consecutive keys} \\
-& \qquad \text{for} \  i \leftarrow 1 \ \text{to} \ n – d \ \text{do} \\
-& \qquad \quad j \leftarrow i + d \\
-& \qquad \quad c[i, j] \leftarrow \infty \\
-& \qquad \quad \text{for} \ r \leftarrow i \ \text{to} \ j \ \text{do} \\
-& \qquad \qquad q \leftarrow min\{c[i,r-1] + c[r+1, j]\} +  PS[j] – PS[i-1]\} \\
-& \qquad \qquad \text{if} \ q < c[i, j] \ \text{then} \\
-& \qquad \qquad \quad c[i, j]  \leftarrow q \\
-& \qquad \qquad \quad R[i, j] \leftarrow r \\
-& \quad \text{return} \ c[1, n], R
-\end{align*}
-$$
-
+- **What is RANKING?**
+When entering data one after another after writing our headings in our tables, or in a table that comes to us ready, the data may not always be in alphabetical, numerical and historical order, and we feel the need to sort our data according to one or more fields, here is where Excel's Sorting feature comes to our aid. .
+![bg left:50% h:100px](ASSETS/sirala.png)
+![bg left:50% h:200px](ASSETS/ozelsirala-768x338.png)
 ---
-
-**TODO** UPDATE CONTENT FOR YOUR COURSE NOTES
-
---- 
-
 ## References
-
-- https://avesis.erdogan.edu.tr/ugur.coruh
-- https://www.linkedin.com/in/ugurcoruh/
-- https://www.hindawi.com/journals/scn/2018/6563089/ 
-- https://dl.acm.org/doi/abs/10.1145/3410352.3410836
-- https://www.sciencedirect.com/science/article/abs/pii/S2214212621002623 
-
+-https://peakup.org/blog
+-https://ucoruh.github.io/ce103-algorithms-and-programming-I
 
 ---
 
